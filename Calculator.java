@@ -4,4 +4,9 @@ public class Calculator
     //from main branch
         return a+b;
     }
+   public int multiply(int a, int b){
+    //from feature-b branch
+        return a*b;
+    }
+
 }
